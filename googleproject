@@ -1,9 +1,21 @@
-button class="favorite styled"
-        type="button">
-    Add to favorites
-</button>
-button class="lucky styled"
-        type="button">
-    I'm feeling lucky
-</button>
+
+<center>
+<img class="fit-picture"
+     src="https://i.pinimg.com/originals/4d/a2/b8/4da2b89fe3d954db0b39fb306c6363bc.jpg"
+     alt="Old google logo">
+  <center>
+ <center>    
+<label for=" Search input ">  Search the web using Google </label>
+    </center>
+
+<input type="text" id="search" search="search" required
+       minlength="5" maxlength="9" size="10">
+       <ul>
+  <li><a href="https://example.com">More Google!</a></li>
+</ul>
+
+
+
+ 
+
  
