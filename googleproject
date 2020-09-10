@@ -2,4 +2,8 @@ button class="favorite styled"
         type="button">
     Add to favorites
 </button>
+button class="lucky styled"
+        type="button">
+    I'm feeling lucky
+</button>
  
